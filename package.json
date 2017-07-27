@@ -1,0 +1,17 @@
+{
+  "name": "cdp-on-protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "protractor-test": "protractor protractor.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.30.1",
+    "geckodriver": "^1.6.1",
+    "protractor": "^5.1.2",
+    "selenium-webdriver": "^3.4.0"
+  }
+}
